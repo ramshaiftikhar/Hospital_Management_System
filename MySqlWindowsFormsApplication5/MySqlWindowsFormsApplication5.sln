@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MySqlWindowsFormsApplication5", "MySqlWindowsFormsApplication5\MySqlWindowsFormsApplication5.vbproj", "{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}.Debug|x86.ActiveCfg = Debug|x86
+		{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}.Debug|x86.Build.0 = Debug|x86
+		{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}.Release|x86.ActiveCfg = Release|x86
+		{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-vb
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 80
+		$3.TabsToSpaces = True
+		$3.scope = text/plain
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/microsoft-resx
+		$0.XmlFormattingPolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/microsoft-resx
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal

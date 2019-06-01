@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{A3F0FF63-DF43-4690-AB1F-ADAFED0DB218}|Default" VersionControlDisabled="True">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MySqlWindowsFormsApplication5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
